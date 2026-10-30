@@ -7,6 +7,9 @@
 [![Eureka Client](https://img.shields.io/badge/Eureka%20Client-4.2.0-lightgrey)](https://spring.io/projects/spring-cloud-netflix)
 [![Open API](https://img.shields.io/badge/Open%20API-3.0.1-blue)](https://swagger.io/specification/)
 
+> ⚠️ This project is no longer maintained (Archived)
+> New Issues and Pull Requests are no longer accepted. The code is kept for reference only; please fork it if you wish to continue development.
+
 **AngusInfra** is a rapid development foundational framework based on SpringBoot. It aims to
 simplify and accelerate the development process of multi-tenant applications, enabling developers to
 build scalable, secure, and maintainable server-side applications more efficiently.
